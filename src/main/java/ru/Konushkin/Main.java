@@ -10,5 +10,8 @@ public class Main {
         }
         private static String getMessage() {
         return "Hello and welcome! qa.guru";
+        System.out.printf("Hello and welcome! qa.guru!!!!!!!!!!");
+
+
         }
     }
